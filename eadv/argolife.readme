@@ -1,0 +1,17 @@
+________________________________________________________
+      _      ____    ____   ____           _____  ____  
+     / \    |    \  |      |    | |     | |      |     
+    /   \   |  __/  |  __  |    | |     | |__    |_    
+   /_____\  |   \   |    | |    | |     | |      |     
+  /       \ |    \  |____| |____| |____ | |      |____ 
+________________________________________________________
+@author:    Kevin Bouret
+@contact:   kevin.bouret@gmail.com
+
+
+** Default function
+// ARGO.options.removeTimeouts.push(delay1);
+
+// ARGO.options.removeInterval.push(inter1);
+
+// ARGO.options.removeClass.push(cls);
